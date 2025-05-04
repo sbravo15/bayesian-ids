@@ -6,22 +6,15 @@ This is a Master's thesis project at **UNI** for the Cybersecurity program. It e
 
 ## 📁 Project Structure
 
+```text
 bayesian-ids/
-
-├── 
-data/ # Raw and processed datasets
-├── 
-notebooks/ # Jupyter notebooks for exploration
-├── 
-src/ # Python source code
-├── 
-results/ # Output metrics and plots
-├── 
-requirements.txt # Dependencies
-└── 
-README.md
-
-
+├── data/             # Raw and processed datasets
+├── notebooks/        # Jupyter notebooks for exploration
+├── src/              # Python source code
+├── results/          # Output metrics and plots
+├── requirements.txt  # Dependencies
+└── README.md
+```
 ---
 
 ## 📊 Datasets
